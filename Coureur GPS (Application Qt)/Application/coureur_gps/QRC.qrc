@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/logos">
+        <file>images/globe.png</file>
+        <file>images/logoAltitude.png</file>
+        <file>images/logoFC.png</file>
+    </qresource>
+    <qresource prefix="/signalSatellite">
+        <file>images/signalLogo/badSignal.png</file>
+        <file>images/signalLogo/goodSignal.png</file>
+        <file>images/signalLogo/noSignal.png</file>
+        <file>images/signalLogo/perfectSignal.png</file>
+    </qresource>
+    <qresource prefix="/cartes">
+        <file>images/carte_la_rochelle_plan.png</file>
+        <file>images/carte_la_rochelle_satellite.png</file>
+    </qresource>
+</RCC>
